@@ -15,8 +15,10 @@ If you know any more free or discounted courses which you think should be helpfu
 | ----|----   |    ----   | ---- | ----     |
 | 1| CodeAcademy| Coding  | [Link](https://bit.ly/2xzKIgf) | 90 Days PRO FREE | 
 |2 | PluralSight | Coding | [Link](https://bit.ly/2VsBgTG) | Free Till April 2020 |
-|3 |
-
+|3 | Ahref (Blogging For Business) | Content Marketing | [Link](https://ahrefs.com/academy/blogging-for-business) | Limited Period Offer | 
+| 4 | Progate | Coding | [Link](https://linktr.ee/progatespecialaccess) |  Free Till April 2020 |
+| 5 | gsd | gf | gsd| gsd
+| | Coding Blocks  | Coding- Competitive Programming | [Link](http://cb.lk/cpcpyt) | Limited Period Offer | 
 
 
 
