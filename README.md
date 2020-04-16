@@ -1,6 +1,6 @@
-List Of Free Courses In COVID-19
-
+# List Of Free Courses In COVID-19
 -------------------
+
 
 EdTech Companies around the world are offering limited edition free courses in COVID-19. If you want to learn something new whether is coding, design, marketing, blogging, SEO, content marketing etc, there can't be a best time than this. 
 
