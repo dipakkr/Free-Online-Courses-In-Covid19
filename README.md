@@ -17,13 +17,12 @@ If you know any more free or discounted courses which you think should be helpfu
 |2 | PluralSight | Coding | [Link](https://bit.ly/2VsBgTG) | Free Till April 2020 |
 |3 | Ahref (Blogging For Business) | Content Marketing | [Link](https://ahrefs.com/academy/blogging-for-business) | Limited Period Offer | 
 | 4 | Progate | Coding | [Link](https://linktr.ee/progatespecialaccess) |  Free Till April 2020 |
-| 5 | gsd | gf | gsd| gsd
-| 6 | Coding Blocks  | Coding- Competitive Programming | [Link](http://cb.lk/cpcpyt) | Limited Period Offer | 
-| 7 | Coursera Courses  | Tech | [Link](https://bit.ly/2VPu1Wn) | Limited Period Offer | 
-| 8 | Free Courses on Edx  | Tech | [Link](https://bit.ly/2xTJBbj) | Limited Period Offer | 
-| 9 | Udemy Free Courses  | All Domains | [Link](https://bit.ly/3cGJTkQ) | Limited Period Offer | 
-| 10 | Linux Foundation Scholarship  | Tech | [Link](https://bit.ly/3bwm7I1) | Limited Period Offer | 
-| 11 | Udacity 1Month Free Nanodegree  | Tech | [Link](https://bit.ly/3cGldc1) | Limited Period Offer | 
+| 5 | Coding Blocks  | Coding- Competitive Programming | [Link](http://cb.lk/cpcpyt) | Limited Period Offer | 
+| 6 | Coursera Courses  | Tech | [Link](https://bit.ly/2VPu1Wn) | Limited Period Offer | 
+| 7 | Free Courses on Edx  | Tech | [Link](https://bit.ly/2xTJBbj) | Limited Period Offer | 
+| 8 | Udemy Free Courses  | All Domains | [Link](https://bit.ly/3cGJTkQ) | Limited Period Offer | 
+| 9 | Linux Foundation Scholarship  | Tech | [Link](https://bit.ly/3bwm7I1) | Limited Period Offer | 
+| 10 | Udacity 1Month Free Nanodegree  | Tech | [Link](https://bit.ly/3cGldc1) | Limited Period Offer | 
 
 
 # Books, Journals, Podcast
