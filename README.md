@@ -8,6 +8,8 @@ We are privileged section of society who have got the comfort to Learn From Home
 
 If you know any more free or discounted courses which you think should be helpful for the community, do share by creating a issue or sending a Pull Request. 
 
+You may also like to see [A2Z Resource For Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) 
+
 
 # Online Courses
 
