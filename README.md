@@ -2,7 +2,7 @@
 -------------------
 
 
-EdTech Companies around the world are offering limited edition free courses in COVID-19. If you want to learn something new whether is coding, design, marketing, blogging, SEO, content marketing etc, there can't be a best time than this. 
+When the world is in crisis, edTech Companies across the globe are offering limited edition free courses in COVID-19. If you want to learn something new whether is coding, design, marketing, blogging, SEO, content marketing etc, there can't be a best time than this. 
 
 We are privileged section of society who have got the comfort to Learn From Home and Work From Home, not everyone has it. So, Utilize in learning and becoming the better version of yourself. Here I am listing few courses which are free. 
 
